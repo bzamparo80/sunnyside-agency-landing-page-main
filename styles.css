@@ -61,7 +61,7 @@ h1, h2, h3, h4, .btn, .about-link {
 
 .container{
     background: var(--snow);
-    max-width: 1440px;
+    max-width: 1600px;
     margin: auto;
     position: relative;
     overflow: hidden;
@@ -1230,4 +1230,3 @@ footer{
 
 }
 
->>>>>>> be4aa6061f028674d5a177b5aa5a79322e1795f0
